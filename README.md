@@ -84,6 +84,7 @@ Skilled Junior Data Engineer with hands-on experience in data integration, big d
 - **Databases**: SQL Server, Azure SQL, MySQL
 - **Big Data Tools**: Hadoop, Spark, Apache
 - **Version Control**: Git, GitHub
+- **Visualisation Tools**: PowerBI
 
 ---
 
