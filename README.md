@@ -80,7 +80,7 @@ Skilled Junior Data Engineer with hands-on experience in data integration, big d
 ### 💡 Skills & Expertise
 
 - **Cloud Platform**: Microsoft Azure, Azure Data Factory, Azure Storage, Azure Databricks
-- **Programming**: Python, Java, PySpark, SQL, KCL (Kinesis Client Library)
+- **Programming**: Python, Java, PySpark, SQL, KQL (Kusto Query Language)
 - **Databases**: SQL Server, Azure SQL, MySQL
 - **Big Data Tools**: Hadoop, Spark, Apache
 - **Version Control**: Git, GitHub
